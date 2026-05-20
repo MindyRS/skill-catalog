@@ -1,0 +1,66 @@
+name: Nightly Skill Crawl
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 02:00 UTC daily
+  workflow_dispatch:        # Allow manual re-runs
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    outputs:
+      skills_changed: ${{ steps.diff.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r crawler/requirements.txt
+
+      - name: Run crawler
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
+        working-directory: ${{ github.workspace }}
+        run: python crawler/crawl.py
+
+      - name: Check for changes
+        id: diff
+        run: |
+          git diff --quiet site/skills.json && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit updated skills.json
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "skill-crawler[bot]"
+          git config user.email "skill-crawler[bot]@users.noreply.github.com"
+          git add site/skills.json
+          git commit -m "chore: nightly skill crawl $(date -u +%Y-%m-%d)"
+          git push
+
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # Fetch after potential crawl commit
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
