@@ -123,7 +123,6 @@ function renderCard(skill) {
   card.innerHTML = `
     <div class="skill-name">${escapeHtml(skill.name)}</div>
     <div class="skill-description">${escapeHtml(skill.description)}</div>
-    <div class="skill-repo">${escapeHtml(skill.repo)}</div>
     <div class="badges">${badges}</div>
     <div class="skill-meta">${meta}</div>
     <a class="skill-link" href="${escapeHtml(skill.url)}" target="_blank" rel="noopener noreferrer">→ View skill</a>
@@ -131,31 +130,42 @@ function renderCard(skill) {
   return card;
 }
 
+function groupByRepo(filtered) {
+  const grouped = {};
+  filtered.forEach(skill => {
+    if (!grouped[skill.repo]) grouped[skill.repo] = [];
+    grouped[skill.repo].push(skill);
+  });
+  return Object.keys(grouped).sort().map(repo => ({ repo, skills: grouped[repo] }));
+}
+
 function renderTable(filtered) {
   if (filtered.length === 0) {
     return '<div class="empty-table">No skills match your filters.</div>';
   }
-  const rows = filtered.map(skill => {
-    const badges = skill.platforms.map(p => `<span class="badge">${escapeHtml(p)}</span>`).join(' ');
-    return `<tr>
-      <td class="col-name">${escapeHtml(skill.name)}</td>
-      <td class="col-desc">${escapeHtml(skill.description)}</td>
-      <td class="col-repo">${escapeHtml(skill.repo)}</td>
-      <td class="col-platforms">${badges}</td>
-      <td class="col-updated">${relativeDate(skill.last_updated)}</td>
-      <td class="col-link"><a href="${escapeHtml(skill.url)}" target="_blank" rel="noopener noreferrer">View →</a></td>
-    </tr>`;
-  }).join('');
+  let tbody = '';
+  groupByRepo(filtered).forEach(({ repo, skills }) => {
+    tbody += `<tr class="repo-group-row"><td colspan="5">${escapeHtml(repo)}</td></tr>`;
+    skills.forEach(skill => {
+      const badges = skill.platforms.map(p => `<span class="badge">${escapeHtml(p)}</span>`).join(' ');
+      tbody += `<tr>
+        <td class="col-name">${escapeHtml(skill.name)}</td>
+        <td class="col-desc">${escapeHtml(skill.description)}</td>
+        <td class="col-platforms">${badges}</td>
+        <td class="col-updated">${relativeDate(skill.last_updated)}</td>
+        <td class="col-link"><a href="${escapeHtml(skill.url)}" target="_blank" rel="noopener noreferrer">View →</a></td>
+      </tr>`;
+    });
+  });
   return `<table class="skills-table">
     <thead><tr>
       <th>Name</th>
       <th>Description</th>
-      <th>Repo</th>
       <th>Platform</th>
       <th>Updated</th>
       <th></th>
     </tr></thead>
-    <tbody>${rows}</tbody>
+    <tbody>${tbody}</tbody>
   </table>`;
 }
 
@@ -163,23 +173,38 @@ function render() {
   const filtered = filter(allSkills);
   document.getElementById('result-count').textContent =
     `Showing ${filtered.length.toLocaleString()} of ${allSkills.length.toLocaleString()} skills`;
-  const grid = document.getElementById('skills-grid');
+  const container = document.getElementById('skills-grid');
+  container.className = '';
+  container.innerHTML = '';
 
   if (viewMode === 'table') {
-    grid.className = '';
-    grid.innerHTML = renderTable(filtered);
+    container.innerHTML = renderTable(filtered);
     return;
   }
 
-  grid.className = 'skills-grid';
-  grid.innerHTML = '';
   if (filtered.length === 0) {
-    grid.innerHTML = '<div class="empty-state">No skills match your filters.</div>';
+    container.innerHTML = '<div class="empty-state">No skills match your filters.</div>';
     return;
   }
+
   const fragment = document.createDocumentFragment();
-  filtered.forEach(skill => fragment.appendChild(renderCard(skill)));
-  grid.appendChild(fragment);
+  groupByRepo(filtered).forEach(({ repo, skills }) => {
+    const section = document.createElement('div');
+    section.className = 'repo-group';
+
+    const heading = document.createElement('h2');
+    heading.className = 'repo-group-heading';
+    heading.textContent = repo;
+    section.appendChild(heading);
+
+    const grid = document.createElement('div');
+    grid.className = 'skills-grid';
+    skills.forEach(skill => grid.appendChild(renderCard(skill)));
+    section.appendChild(grid);
+
+    fragment.appendChild(section);
+  });
+  container.appendChild(fragment);
 }
 
 init();

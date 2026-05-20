@@ -224,3 +224,28 @@ main {
   padding: 3rem;
   color: var(--text-secondary);
 }
+
+.repo-group { margin-bottom: 2rem; }
+
+.repo-group-heading {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-family: monospace;
+  padding: 0.5rem 0;
+  margin-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.repo-group-row td {
+  background: var(--elastic-light);
+  font-family: monospace;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.5rem 1rem;
+}
