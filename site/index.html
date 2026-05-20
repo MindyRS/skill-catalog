@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elastic Skill Catalog</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>Elastic Skill Catalog</h1>
+      <span id="last-updated" class="subtitle"></span>
+    </div>
+    <p id="stats" class="stats"></p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <input type="text" id="search" placeholder="Search skills..." autocomplete="off">
+      <div class="filters">
+        <div class="filter-group">
+          <label>Platform:</label>
+          <div class="toggle-group" id="platform-filters">
+            <button class="toggle active" data-platform="all">All</button>
+            <button class="toggle" data-platform="claude">Claude</button>
+            <button class="toggle" data-platform="gemini">Gemini</button>
+            <button class="toggle" data-platform="copilot">Copilot</button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <label for="repo-filter">Repo:</label>
+          <select id="repo-filter">
+            <option value="">All repos</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <p id="result-count" class="result-count"></p>
+    <div id="skills-grid" class="skills-grid"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
