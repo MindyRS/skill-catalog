@@ -97,6 +97,17 @@ def main():
 
     all_skills = org_skills + personal_skills
 
+    # Deduplicate by (repo, name): keep the entry with the shortest path
+    seen_name = {}
+    for skill in all_skills:
+        key = (skill["repo"], skill["name"])
+        if key not in seen_name or len(skill["path"]) < len(seen_name[key]["path"]):
+            seen_name[key] = skill
+    deduped = list(seen_name.values())
+    if len(deduped) < len(all_skills):
+        print(f"Deduped {len(all_skills) - len(deduped)} duplicate skill names ({len(deduped)} unique)")
+    all_skills = deduped
+
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "total": len(all_skills),
