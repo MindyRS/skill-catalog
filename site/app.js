@@ -2,6 +2,7 @@ let allSkills = [];
 let activePlatforms = new Set();
 let activeRepo = '';
 let searchQuery = '';
+let viewMode = 'cards';
 
 async function init() {
   const resp = await fetch('skills.json');
@@ -56,6 +57,20 @@ async function init() {
       }
       render();
     });
+  });
+
+  document.getElementById('view-cards').addEventListener('click', () => {
+    viewMode = 'cards';
+    document.getElementById('view-cards').classList.add('active');
+    document.getElementById('view-table').classList.remove('active');
+    render();
+  });
+
+  document.getElementById('view-table').addEventListener('click', () => {
+    viewMode = 'table';
+    document.getElementById('view-table').classList.add('active');
+    document.getElementById('view-cards').classList.remove('active');
+    render();
   });
 
   render();
@@ -116,11 +131,47 @@ function renderCard(skill) {
   return card;
 }
 
+function renderTable(filtered) {
+  if (filtered.length === 0) {
+    return '<div class="empty-table">No skills match your filters.</div>';
+  }
+  const rows = filtered.map(skill => {
+    const badges = skill.platforms.map(p => `<span class="badge">${escapeHtml(p)}</span>`).join(' ');
+    return `<tr>
+      <td class="col-name">${escapeHtml(skill.name)}</td>
+      <td class="col-desc">${escapeHtml(skill.description)}</td>
+      <td class="col-repo">${escapeHtml(skill.repo)}</td>
+      <td class="col-platforms">${badges}</td>
+      <td class="col-updated">${relativeDate(skill.last_updated)}</td>
+      <td class="col-link"><a href="${escapeHtml(skill.url)}" target="_blank" rel="noopener noreferrer">View →</a></td>
+    </tr>`;
+  }).join('');
+  return `<table class="skills-table">
+    <thead><tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Repo</th>
+      <th>Platform</th>
+      <th>Updated</th>
+      <th></th>
+    </tr></thead>
+    <tbody>${rows}</tbody>
+  </table>`;
+}
+
 function render() {
   const filtered = filter(allSkills);
   document.getElementById('result-count').textContent =
     `Showing ${filtered.length.toLocaleString()} of ${allSkills.length.toLocaleString()} skills`;
   const grid = document.getElementById('skills-grid');
+
+  if (viewMode === 'table') {
+    grid.className = '';
+    grid.innerHTML = renderTable(filtered);
+    return;
+  }
+
+  grid.className = 'skills-grid';
   grid.innerHTML = '';
   if (filtered.length === 0) {
     grid.innerHTML = '<div class="empty-state">No skills match your filters.</div>';

@@ -129,13 +129,15 @@ main {
   flex-direction: column;
   gap: 0.5rem;
   transition: box-shadow 0.15s;
+  min-width: 0; /* prevent grid blowout */
+  overflow: hidden;
 }
 
 .skill-card:hover { box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); }
 
-.skill-name { font-size: 1rem; font-weight: 600; color: var(--text-primary); }
-.skill-description { font-size: 0.875rem; color: var(--text-secondary); flex: 1; }
-.skill-repo { font-size: 0.75rem; color: var(--text-secondary); font-family: monospace; }
+.skill-name { font-size: 1rem; font-weight: 600; color: var(--text-primary); overflow-wrap: break-word; }
+.skill-description { font-size: 0.875rem; color: var(--text-secondary); flex: 1; overflow-wrap: break-word; }
+.skill-repo { font-size: 0.75rem; color: var(--text-secondary); font-family: monospace; overflow-wrap: break-word; }
 
 .badges { display: flex; gap: 0.375rem; flex-wrap: wrap; min-height: 1.5rem; }
 
@@ -164,6 +166,60 @@ main {
 
 .empty-state {
   grid-column: 1 / -1;
+  text-align: center;
+  padding: 3rem;
+  color: var(--text-secondary);
+}
+
+.view-toggle-group { margin-left: auto; }
+
+/* Table view */
+.skills-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: 0.875rem;
+}
+
+.skills-table th {
+  text-align: left;
+  padding: 0.75rem 1rem;
+  background: var(--elastic-light);
+  border-bottom: 1px solid var(--border);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+
+.skills-table td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+.skills-table tr:last-child td { border-bottom: none; }
+.skills-table tr:hover td { background: var(--elastic-light); }
+
+.skills-table .col-name { font-weight: 600; color: var(--text-primary); overflow-wrap: break-word; min-width: 8rem; }
+.skills-table .col-desc { color: var(--text-secondary); overflow-wrap: break-word; max-width: 28rem; }
+.skills-table .col-repo { font-family: monospace; font-size: 0.75rem; color: var(--text-secondary); white-space: nowrap; }
+.skills-table .col-platforms { white-space: nowrap; }
+.skills-table .col-updated { white-space: nowrap; color: var(--text-secondary); font-size: 0.75rem; }
+.skills-table .col-link a {
+  color: var(--elastic-blue);
+  text-decoration: none;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.skills-table .col-link a:hover { text-decoration: underline; }
+
+.empty-table {
   text-align: center;
   padding: 3rem;
   color: var(--text-secondary);
