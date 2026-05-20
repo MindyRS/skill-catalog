@@ -15,10 +15,11 @@ class GitHubClient:
         })
 
     def search_code(self, query: str) -> list:
-        """Search code across GitHub, handling pagination. Rate-limited to 30 req/min."""
+        """Search code across GitHub, handling pagination. Rate-limited to 30 req/min.
+        GitHub Code Search caps at 1,000 results (10 pages of 100) — stops cleanly at that limit."""
         results = []
         page = 1
-        while True:
+        while page <= 10:  # GitHub hard cap: 1,000 results max
             resp = self.session.get(
                 f"{self.BASE}/search/code",
                 params={"q": query, "per_page": 100, "page": page},
@@ -30,6 +31,8 @@ class GitHubClient:
                 break
             page += 1
             time.sleep(2)  # Code Search: 30 req/min authenticated
+        if len(results) == 1000:
+            print(f"Warning: Code Search hit 1,000-result cap for query: {query!r}")
         return results
 
     def get_file_content(self, owner: str, repo: str, path: str) -> str:
