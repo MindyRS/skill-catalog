@@ -27,7 +27,7 @@ jobs:
 
       - name: Run crawler
         env:
-          GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         working-directory: ${{ github.workspace }}
         run: python crawler/crawl.py
 

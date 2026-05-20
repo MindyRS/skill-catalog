@@ -80,7 +80,7 @@ def crawl_personal_repos(client: GitHubClient, repos: list) -> list:
 
 
 def main():
-    token = os.environ["GITHUB_PAT"]
+    token = os.environ["GH_PAT"]
     client = GitHubClient(token)
 
     with open("repos.yml") as f:
