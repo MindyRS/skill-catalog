@@ -1,3 +1,8 @@
 # Curated personal repos containing skills.
 # Add entries as: "owner/repo-name"
 personal_repos: []
+
+# Elastic org repos too large for org-wide Code Search to cover reliably.
+# Each gets its own targeted "filename:SKILL.md repo:{repo}" search pass.
+targeted_repos:
+  - elastic/kibana
