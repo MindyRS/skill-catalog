@@ -24,6 +24,9 @@ class GitHubClient:
                 f"{self.BASE}/search/code",
                 params={"q": query, "per_page": 100, "page": page},
             )
+            if resp.status_code == 403:
+                print(f"Warning: Code Search cap hit at page {page} for query: {query!r}")
+                break
             resp.raise_for_status()
             data = resp.json()
             results.extend(data["items"])
@@ -31,8 +34,8 @@ class GitHubClient:
                 break
             page += 1
             time.sleep(2)  # Code Search: 30 req/min authenticated
-        if len(results) == 1000:
-            print(f"Warning: Code Search hit 1,000-result cap for query: {query!r}")
+        if len(results) >= 900:
+            print(f"Warning: Code Search near/at result cap for query: {query!r}")
         return results
 
     def get_file_content(self, owner: str, repo: str, path: str) -> str:
