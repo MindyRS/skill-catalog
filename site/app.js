@@ -3,6 +3,7 @@ let activePlatforms = new Set();
 let activeRepo = '';
 let searchQuery = '';
 let viewMode = 'cards';
+let activeCategory = 'dev_tool';
 
 async function init() {
   const resp = await fetch('skills.json');
@@ -59,6 +60,15 @@ async function init() {
     });
   });
 
+  document.querySelectorAll('.toggle[data-category]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.toggle[data-category]').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeCategory = btn.dataset.category;
+      render();
+    });
+  });
+
   document.getElementById('view-cards').addEventListener('click', () => {
     viewMode = 'cards';
     document.getElementById('view-cards').classList.add('active');
@@ -89,6 +99,7 @@ function filter(skills) {
         if (!skill.platforms.includes(p)) return false;
       }
     }
+    if (activeCategory !== 'all' && (skill.category || 'unclear') !== activeCategory) return false;
     return true;
   });
 }
@@ -109,6 +120,13 @@ function escapeHtml(str) {
   }[c]));
 }
 
+const CATEGORY_LABELS = { dev_tool: 'Dev Tool', feature: 'Feature', unclear: 'Unclear' };
+
+function categoryBadge(skill) {
+  const cat = skill.category || 'unclear';
+  return `<span class="badge badge-category badge-${cat}">${CATEGORY_LABELS[cat] || cat}</span>`;
+}
+
 function renderCard(skill) {
   const card = document.createElement('div');
   card.className = 'skill-card';
@@ -123,7 +141,7 @@ function renderCard(skill) {
   card.innerHTML = `
     <div class="skill-name">${escapeHtml(skill.name)}</div>
     <div class="skill-description">${escapeHtml(skill.description)}</div>
-    <div class="badges">${badges}</div>
+    <div class="badges">${categoryBadge(skill)}${badges}</div>
     <div class="skill-meta">${meta}</div>
     <a class="skill-link" href="${escapeHtml(skill.url)}" target="_blank" rel="noopener noreferrer">→ View skill</a>
   `;
@@ -151,7 +169,7 @@ function renderTable(filtered) {
       tbody += `<tr>
         <td class="col-name">${escapeHtml(skill.name)}</td>
         <td class="col-desc">${escapeHtml(skill.description)}</td>
-        <td class="col-platforms">${badges}</td>
+        <td class="col-platforms">${categoryBadge(skill)} ${badges}</td>
         <td class="col-updated">${relativeDate(skill.last_updated)}</td>
         <td class="col-link"><a href="${escapeHtml(skill.url)}" target="_blank" rel="noopener noreferrer">View →</a></td>
       </tr>`;

@@ -11,7 +11,8 @@
       "last_updated": "2026-03-03",
       "author": "elena-shostak",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "ecs-rfc-guide",
@@ -22,7 +23,8 @@
       "last_updated": "2026-04-29",
       "author": "bhapas",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cve-statement-go",
@@ -33,7 +35,8 @@
       "last_updated": "2026-05-07",
       "author": "ismisepaul",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-vega",
@@ -44,7 +47,8 @@
       "last_updated": "2026-03-13",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "ci",
@@ -55,7 +59,8 @@
       "last_updated": "2026-02-17",
       "author": "adamkasztenny",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "obsidian-bases",
@@ -66,7 +71,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-dashboards",
@@ -77,7 +83,8 @@
       "last_updated": "2026-04-15",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "check-renovate-prs",
@@ -88,7 +95,8 @@
       "last_updated": "2026-02-17",
       "author": "adamkasztenny",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "devkit-new-skill",
@@ -101,7 +109,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "psi-google-drive",
@@ -112,7 +121,8 @@
       "last_updated": "2026-04-29",
       "author": "alpar-t",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "write-eaf",
@@ -123,7 +133,8 @@
       "last_updated": "2026-02-09",
       "author": "ricardo-estc",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-example",
@@ -136,7 +147,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "pr-feedback",
@@ -147,7 +159,8 @@
       "last_updated": "2026-02-09",
       "author": "ricardo-estc",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-build-tracker",
@@ -160,7 +173,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "save-session",
@@ -173,7 +187,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "skill-creator",
@@ -186,7 +201,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "esdiag",
@@ -197,7 +213,8 @@
       "last_updated": "2026-04-25",
       "author": "VimCommando",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "resume-session",
@@ -210,7 +227,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "ai-review",
@@ -221,7 +239,8 @@
       "last_updated": "2026-03-18",
       "author": "dnraitzyk",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-mcp",
@@ -234,7 +253,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "changelog",
@@ -245,7 +265,8 @@
       "last_updated": "2026-04-11",
       "author": "VimCommando",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "integration-fields-matrix",
@@ -256,7 +277,8 @@
       "last_updated": "2026-05-07",
       "author": "opauloh",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-meta",
@@ -267,7 +289,8 @@
       "last_updated": "2026-03-25",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-jina",
@@ -278,7 +301,8 @@
       "last_updated": "2026-04-21",
       "author": "face0b1101",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-vega",
@@ -289,7 +313,8 @@
       "last_updated": "2026-05-01",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "pr-review",
@@ -300,7 +325,8 @@
       "last_updated": "2026-04-22",
       "author": "gtback",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cdr-3rd-party-integrations",
@@ -311,7 +337,8 @@
       "last_updated": "2026-04-10",
       "author": "maxcold",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-beads",
@@ -324,7 +351,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "docs-check-style",
@@ -335,7 +363,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-lens-chart-page",
@@ -346,7 +375,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-roadmap",
@@ -357,7 +387,8 @@
       "last_updated": "2026-04-20",
       "author": "face0b1101",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "docs-redirects",
@@ -368,7 +399,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "docs-frontmatter-audit",
@@ -379,7 +411,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-flag-jargon-skill",
@@ -390,7 +423,8 @@
       "last_updated": "2026-03-11",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-ecommerce",
@@ -401,7 +435,8 @@
       "last_updated": "2026-03-25",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-demo-data",
@@ -412,7 +447,8 @@
       "last_updated": "2026-03-25",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-syntax-help",
@@ -423,7 +459,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-dashboards",
@@ -434,7 +471,8 @@
       "last_updated": "2026-05-01",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "docs-lens-chart-settings",
@@ -445,7 +483,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "docs-review-changelog",
@@ -456,7 +495,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-sa-coaching",
@@ -467,7 +507,8 @@
       "last_updated": "2026-03-25",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-claude-code",
@@ -480,7 +521,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-elastic-cli",
@@ -493,7 +535,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-otel-tracing",
@@ -504,7 +547,8 @@
       "last_updated": "2026-05-01",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-demo-starter",
@@ -517,7 +561,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-demo-recipes",
@@ -528,7 +573,8 @@
       "last_updated": "2026-03-25",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-eui-frontend",
@@ -539,7 +585,8 @@
       "last_updated": "2026-03-25",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-open-crawler",
@@ -550,7 +597,8 @@
       "last_updated": "2026-03-25",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-agent-builder",
@@ -563,7 +611,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-elastic-brand",
@@ -574,7 +623,8 @@
       "last_updated": "2026-05-01",
       "author": "jeffvestal",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "docs-content-type-checker",
@@ -585,7 +635,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-streams",
@@ -596,7 +647,8 @@
       "last_updated": "2026-03-23",
       "author": "mdbirnstiehl",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "github-contributions-report",
@@ -609,7 +661,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-page-opening-optimizer",
@@ -620,7 +673,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "ebt-dashboard",
@@ -631,7 +685,8 @@
       "last_updated": "2026-04-08",
       "author": "szaffarano",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-notebook-hygiene",
@@ -642,7 +697,8 @@
       "last_updated": "2026-03-27",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-search-labs-blog",
@@ -653,7 +709,8 @@
       "last_updated": "2026-03-27",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-frontmatter-description",
@@ -664,7 +721,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "team-config",
@@ -675,7 +733,8 @@
       "last_updated": "2026-04-23",
       "author": "john-wagster",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-search-retrievers",
@@ -686,7 +745,8 @@
       "last_updated": "2026-05-20",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "security-workflows",
@@ -697,7 +757,8 @@
       "last_updated": "2026-03-11",
       "author": "patrykkopycinski",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-mdx-article-export",
@@ -708,7 +769,8 @@
       "last_updated": "2026-03-27",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-elastic-brand-html",
@@ -721,7 +783,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "open-pull-request",
@@ -732,7 +795,8 @@
       "last_updated": "2026-05-04",
       "author": "teresaromero",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-audit",
@@ -743,7 +807,8 @@
       "last_updated": "2026-03-17",
       "author": "bytebilly",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "create-pr",
@@ -754,7 +819,8 @@
       "last_updated": "2026-02-08",
       "author": "shahargl",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cloud-create-project",
@@ -765,7 +831,8 @@
       "last_updated": "2026-03-18",
       "author": "ghudgins",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kibana-agent-builder",
@@ -776,7 +843,8 @@
       "last_updated": "2026-03-17",
       "author": "seanstory",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "cloud-manage-project",
@@ -787,7 +855,8 @@
       "last_updated": "2026-03-18",
       "author": "ghudgins",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-elastic-agent-skills",
@@ -802,7 +871,8 @@
         "gemini",
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-notebook-blog-export",
@@ -813,7 +883,8 @@
       "last_updated": "2026-03-27",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "security-alert-triage",
@@ -824,7 +895,8 @@
       "last_updated": "2026-03-12",
       "author": "joe-desimone",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "code-review",
@@ -835,7 +907,8 @@
       "last_updated": "2026-02-08",
       "author": "shahargl",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "package-spec-release",
@@ -846,7 +919,8 @@
       "last_updated": "2026-05-04",
       "author": "teresaromero",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cloud-network-security",
@@ -857,7 +931,8 @@
       "last_updated": "2026-03-31",
       "author": "alxchalkias",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "create-issue",
@@ -868,7 +943,8 @@
       "last_updated": "2026-03-01",
       "author": "seanstory",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-branch-publish-tagging",
@@ -879,7 +955,8 @@
       "last_updated": "2026-03-27",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cloud-access-management",
@@ -890,7 +967,8 @@
       "last_updated": "2026-03-31",
       "author": "alxchalkias",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "ci",
@@ -901,7 +979,8 @@
       "last_updated": "2026-03-20",
       "author": "juliocamarero",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "security-case-management",
@@ -912,7 +991,8 @@
       "last_updated": "2026-03-12",
       "author": "joe-desimone",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-connectors",
@@ -925,7 +1005,8 @@
       "platforms": [
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "pr-screenshots",
@@ -938,7 +1019,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "poc",
@@ -951,7 +1033,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "psi",
@@ -964,7 +1047,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "security-entity-analytics",
@@ -975,7 +1059,8 @@
       "last_updated": "2026-03-24",
       "author": "natasha-moore-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "weekend-catchup",
@@ -986,7 +1071,8 @@
       "last_updated": "2026-02-08",
       "author": "shahargl",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kibana-vega",
@@ -997,7 +1083,8 @@
       "last_updated": "2026-04-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "kibana-vega",
@@ -1008,7 +1095,8 @@
       "last_updated": "2026-03-19",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-vega",
@@ -1019,7 +1107,8 @@
       "last_updated": "2026-03-30",
       "author": "MattDevy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "obsidian-bases",
@@ -1030,7 +1119,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "skill-creator",
@@ -1043,7 +1133,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "skill-creator",
@@ -1056,7 +1147,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "skill-creator",
@@ -1069,7 +1161,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-contributions-report",
@@ -1082,7 +1175,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-contributions-report",
@@ -1095,7 +1189,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-contributions-report",
@@ -1108,7 +1203,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-contributions-report",
@@ -1121,7 +1217,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "entity-store",
@@ -1132,7 +1229,8 @@
       "last_updated": "2026-04-17",
       "author": "maxcold",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "requirements-verification",
@@ -1143,7 +1241,8 @@
       "last_updated": "2026-03-21",
       "author": "tobio",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "semantic-code-search",
@@ -1154,7 +1253,8 @@
       "last_updated": "2026-05-08",
       "author": "kapral18",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "obsidian-cli",
@@ -1165,7 +1265,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-skill-review",
@@ -1178,7 +1279,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "mcp-search",
@@ -1189,7 +1291,8 @@
       "last_updated": "2026-02-19",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-workflows",
@@ -1200,7 +1303,8 @@
       "last_updated": "2026-05-01",
       "author": "face0b1101",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-connectors",
@@ -1213,7 +1317,8 @@
       "platforms": [
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "kibana-anomaly-detection",
@@ -1224,7 +1329,8 @@
       "last_updated": "2026-05-20",
       "author": "qn895",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "okta-lookup",
@@ -1237,7 +1343,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "slack-to-knowledge-base",
@@ -1248,7 +1355,8 @@
       "last_updated": "2026-02-08",
       "author": "shahargl",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "ccm-data-ingester",
@@ -1259,7 +1367,8 @@
       "last_updated": "2026-05-01",
       "author": "daltonkplu",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "skill-consolidation",
@@ -1270,7 +1379,8 @@
       "last_updated": "2026-05-10",
       "author": "patrykkopycinski",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "pr-readiness",
@@ -1283,7 +1393,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "vpn-helper",
@@ -1296,7 +1407,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "sre-soteria-vacate-patterns",
@@ -1307,7 +1419,8 @@
       "last_updated": "2026-03-09",
       "author": "elkargig",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-cli-create-issue",
@@ -1318,7 +1431,8 @@
       "last_updated": "2026-03-18",
       "author": "romulo-batista-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "documentation-and-adrs",
@@ -1331,7 +1445,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "scout-api-testing",
@@ -1344,7 +1459,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "import-to-state",
@@ -1355,7 +1471,8 @@
       "last_updated": "2026-04-16",
       "author": "jkomara",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "verification-before-completion",
@@ -1368,7 +1485,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "Labs-editorial-review",
@@ -1379,7 +1497,8 @@
       "last_updated": "2026-04-30",
       "author": "jarturomora",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "esql-union-types-review",
@@ -1390,7 +1509,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "manage-service-accounts",
@@ -1403,7 +1523,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "esql-search-queries",
@@ -1414,7 +1535,8 @@
       "last_updated": "2026-03-17",
       "author": "JM-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "esql-planner-mapper-pr-review",
@@ -1425,7 +1547,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "investigate-entitlements",
@@ -1436,7 +1559,8 @@
       "last_updated": "2026-04-17",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "alert-review",
@@ -1447,7 +1571,8 @@
       "last_updated": "2026-05-14",
       "author": "jilldoty-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "compare-diagnosis-to-commit",
@@ -1458,7 +1583,8 @@
       "last_updated": "2026-04-20",
       "author": "haetamoudi",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "sync-rules",
@@ -1469,7 +1595,8 @@
       "last_updated": "2026-04-10",
       "author": "Mikaayenson",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "run-evaluation",
@@ -1480,7 +1607,8 @@
       "last_updated": "2026-04-01",
       "author": "Mikaayenson",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "telemetry-data-path-tracer",
@@ -1491,7 +1619,8 @@
       "last_updated": "2026-03-21",
       "author": "tylersmalley",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-demo-branding",
@@ -1502,7 +1631,8 @@
       "last_updated": "2026-03-25",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "access-alert-details",
@@ -1513,7 +1643,8 @@
       "last_updated": "2026-04-21",
       "author": "prdoyle",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "esql-unmapped-fields-review",
@@ -1524,7 +1655,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "api-and-interface-design",
@@ -1535,7 +1667,8 @@
       "last_updated": "2026-05-15",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "gh-release",
@@ -1546,7 +1679,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "create-incident-action-item",
@@ -1557,7 +1691,8 @@
       "last_updated": "2026-05-04",
       "author": "mark-vieira",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dex-infra",
@@ -1570,7 +1705,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "ccstatusline",
@@ -1583,7 +1719,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "serverless-o11y",
@@ -1594,7 +1731,8 @@
       "last_updated": "2026-04-14",
       "author": "juliocamarero",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "create-gh-issue",
@@ -1605,7 +1743,8 @@
       "last_updated": "2026-03-20",
       "author": "juliocamarero",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "shift-left-ci-audit",
@@ -1619,7 +1758,8 @@
         "claude",
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "esql-search-queries",
@@ -1630,7 +1770,8 @@
       "last_updated": "2026-03-16",
       "author": "JM-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "investigate-bulk-api-5xx",
@@ -1641,7 +1782,8 @@
       "last_updated": "2026-04-17",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "esql-query-validator",
@@ -1652,7 +1794,8 @@
       "last_updated": "2026-03-16",
       "author": "JM-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "create-gh-issue",
@@ -1663,7 +1806,8 @@
       "last_updated": "2026-03-20",
       "author": "juliocamarero",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cve-lookup",
@@ -1674,7 +1818,8 @@
       "last_updated": "2026-02-26",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "mulesoft-code-reviewer",
@@ -1685,7 +1830,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "backstage-catalog-register",
@@ -1696,7 +1842,8 @@
       "last_updated": "2026-02-26",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dpkg-analysis",
@@ -1709,7 +1856,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dbt-model-review",
@@ -1720,7 +1868,8 @@
       "last_updated": "2026-04-28",
       "author": "KeerthyND",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "git-commit",
@@ -1733,7 +1882,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "improve-codebase-architecture",
@@ -1744,7 +1894,8 @@
       "last_updated": "2026-05-06",
       "author": "tcuthbert",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-serverless-changelog",
@@ -1755,7 +1906,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "approve-renovate-prs",
@@ -1766,7 +1918,8 @@
       "last_updated": "2026-05-12",
       "author": "szaffarano",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "composer-upgrade-check",
@@ -1777,7 +1930,8 @@
       "last_updated": "2026-05-12",
       "author": "szaffarano",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "esql-external-datasources-review",
@@ -1788,7 +1942,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "buildkite-trigger",
@@ -1801,7 +1956,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-edot-java-migrate",
@@ -1812,7 +1968,8 @@
       "last_updated": "2026-03-18",
       "author": "vinaychandrasekhar",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "tutor-builder",
@@ -1825,7 +1982,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "ccstatusline",
@@ -1838,7 +1996,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "mito-cel-debugging-efd6",
@@ -1849,7 +2008,8 @@
       "last_updated": "2026-03-31",
       "author": "efd6",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "backstage-catalog-register",
@@ -1860,7 +2020,8 @@
       "last_updated": "2026-03-06",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "local-evals",
@@ -1871,7 +2032,8 @@
       "last_updated": "2026-05-12",
       "author": "patrykkopycinski",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "verify-reviewer",
@@ -1882,7 +2044,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elastic-repo-bk-adhoc-main",
@@ -1895,7 +2058,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-api-explorer",
@@ -1906,7 +2070,8 @@
       "last_updated": "2026-04-22",
       "author": "lcawl",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "esql-set-review",
@@ -1917,7 +2082,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-authz",
@@ -1928,7 +2094,8 @@
       "last_updated": "2026-03-18",
       "author": "eedugon",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "elastic-firewall-quarterly-review",
@@ -1941,7 +2108,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "diagram",
@@ -1952,7 +2120,8 @@
       "last_updated": "2026-03-27",
       "author": "adamkasztenny",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "crossplane-trace",
@@ -1963,7 +2132,8 @@
       "last_updated": "2026-04-29",
       "author": "rbrunan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "sre-investigator-setup-and-usage",
@@ -1978,7 +2148,8 @@
         "gemini",
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dpkg-analysis",
@@ -1991,7 +2162,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "self-improving-loop",
@@ -2004,7 +2176,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "tutor-teleport-infra",
@@ -2017,7 +2190,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "ech-sdh-troubleshooting",
@@ -2028,7 +2202,8 @@
       "last_updated": "2026-03-23",
       "author": "daviddetorres",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-manage-slos",
@@ -2039,7 +2214,8 @@
       "last_updated": "2026-03-24",
       "author": "alaudazzi",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kibana-o11y-alert-troubleshooting",
@@ -2052,7 +2228,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elastic-enterprise-search-release",
@@ -2063,7 +2240,8 @@
       "last_updated": "2026-04-30",
       "author": "tutelaris",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "vpn-helper",
@@ -2076,7 +2254,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "Test Skill",
@@ -2087,7 +2266,8 @@
       "last_updated": "2026-05-11",
       "author": "machadoum",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "scout-migration-planner",
@@ -2100,7 +2280,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "document-dbt",
@@ -2111,7 +2292,8 @@
       "last_updated": "2026-05-11",
       "author": "oliviamaquar",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "obsidian-cli",
@@ -2122,7 +2304,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-connectors",
@@ -2135,7 +2318,8 @@
       "platforms": [
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kibana-connectors",
@@ -2148,7 +2332,8 @@
       "platforms": [
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-connectors",
@@ -2161,7 +2346,8 @@
       "platforms": [
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "github-cli-create-issue",
@@ -2172,7 +2358,8 @@
       "last_updated": "2026-02-27",
       "author": "romulo-batista-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "documentation-and-adrs",
@@ -2185,7 +2372,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "api-and-interface-design",
@@ -2196,7 +2384,8 @@
       "last_updated": "2026-05-11",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "verify-reviewer",
@@ -2207,7 +2396,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "verify-reviewer",
@@ -2218,7 +2408,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "verify-reviewer",
@@ -2229,7 +2420,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "verify-reviewer",
@@ -2240,7 +2432,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "review-pr",
@@ -2255,7 +2448,8 @@
         "gemini",
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-alerting-rules",
@@ -2266,7 +2460,8 @@
       "last_updated": "2026-03-13",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "kibana-privilege-deprecation",
@@ -2277,7 +2472,8 @@
       "last_updated": "2026-03-03",
       "author": "elena-shostak",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "owasp-security-verify",
@@ -2288,7 +2484,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elastic-blog-writer",
@@ -2299,7 +2496,8 @@
       "last_updated": "2026-03-30",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "feature-flags",
@@ -2310,7 +2508,8 @@
       "last_updated": "2026-05-17",
       "author": "notoriousbdg",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kibana-vega",
@@ -2321,7 +2520,8 @@
       "last_updated": "2026-03-18",
       "author": "ghudgins",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "asdf",
@@ -2332,7 +2532,8 @@
       "last_updated": "2026-03-06",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-issues",
@@ -2343,7 +2544,8 @@
       "last_updated": "2026-04-01",
       "author": "tylerperk",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "humanizer",
@@ -2354,7 +2556,8 @@
       "last_updated": "2026-04-24",
       "author": "ryanburnham",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "operational-kpi-sdh-stats",
@@ -2365,7 +2568,8 @@
       "last_updated": "2026-03-23",
       "author": "daviddetorres",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kbn-dbt-model",
@@ -2376,7 +2580,8 @@
       "last_updated": "2026-05-15",
       "author": "szaffarano",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "self-setup",
@@ -2387,7 +2592,8 @@
       "last_updated": "2026-03-21",
       "author": "tylersmalley",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "perf-investigation",
@@ -2400,7 +2606,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "openapi-examples",
@@ -2411,7 +2618,8 @@
       "last_updated": "2026-04-01",
       "author": "lcawl",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "upstream-version-check",
@@ -2422,7 +2630,8 @@
       "last_updated": "2026-02-26",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "ci-cd-and-automation",
@@ -2433,7 +2642,8 @@
       "last_updated": "2026-05-15",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-cli-security-review-pr",
@@ -2444,7 +2654,8 @@
       "last_updated": "2026-04-27",
       "author": "romulo-batista-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cleanup-mki-ci-clusters",
@@ -2455,7 +2666,8 @@
       "last_updated": "2026-05-18",
       "author": "igordcard",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "ccm-investigator",
@@ -2466,7 +2678,8 @@
       "last_updated": "2026-05-01",
       "author": "daltonkplu",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "esql-inference-review",
@@ -2477,7 +2690,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "howto-obs-restore",
@@ -2488,7 +2702,8 @@
       "last_updated": "2026-04-17",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "Cypress to Scout Migration",
@@ -2499,7 +2714,8 @@
       "last_updated": "2025-10-21",
       "author": "enriquesanchez-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "access-gradle-enterprise",
@@ -2510,7 +2726,8 @@
       "last_updated": "2026-04-17",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elastic-search-8x-unified-release",
@@ -2521,7 +2738,8 @@
       "last_updated": "2026-04-27",
       "author": "erikcurrin-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-esql",
@@ -2532,7 +2750,8 @@
       "last_updated": "2026-04-16",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "git-history-user-search",
@@ -2543,7 +2762,8 @@
       "last_updated": "2026-01-13",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "observability-edot-python-instrument",
@@ -2554,7 +2774,8 @@
       "last_updated": "2026-03-16",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "investigate-high-server-error-rate",
@@ -2565,7 +2786,8 @@
       "last_updated": "2026-04-17",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "esql-basic",
@@ -2576,7 +2798,8 @@
       "last_updated": "2026-04-23",
       "author": "ezimuel",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "add-tool",
@@ -2587,7 +2810,8 @@
       "last_updated": "2026-03-10",
       "author": "adhishthite",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "ech-cp-hosted-team",
@@ -2598,7 +2822,8 @@
       "last_updated": "2026-02-06",
       "author": "yang-wei",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "access-ech-logs",
@@ -2609,7 +2834,8 @@
       "last_updated": "2026-04-22",
       "author": "mark-vieira",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-claude-token-dashboard",
@@ -2622,7 +2848,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "changie",
@@ -2633,7 +2860,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "design-doc-writer",
@@ -2644,7 +2872,8 @@
       "last_updated": "2026-03-31",
       "author": "ek-so",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "cleanup-stale-indices",
@@ -2655,7 +2884,8 @@
       "last_updated": "2026-04-16",
       "author": "maramos-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "esql-enrich-review",
@@ -2666,7 +2896,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "keyword-search",
@@ -2677,7 +2908,8 @@
       "last_updated": "2026-04-10",
       "author": "wildemat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "esql-index-resolver-review",
@@ -2688,7 +2920,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "o11y-standards-enforcement",
@@ -2699,7 +2932,8 @@
       "last_updated": "2026-04-16",
       "author": "jkomara",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "fix-package-docs",
@@ -2710,7 +2944,8 @@
       "last_updated": "2026-03-20",
       "author": "clintandrewhall",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "tuxcare",
@@ -2721,7 +2956,8 @@
       "last_updated": "2026-03-06",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oteldemo-flagd",
@@ -2732,7 +2968,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "serverless-gitops",
@@ -2743,7 +2980,8 @@
       "last_updated": "2026-03-06",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "devenv-o11y-kibana",
@@ -2756,7 +2994,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cleanup-tcpdump",
@@ -2769,7 +3008,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "devenv-o11y-forward",
@@ -2782,7 +3022,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "mdx-to-codex-migration",
@@ -2795,7 +3036,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "find-skills",
@@ -2808,7 +3050,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "tutor-builder",
@@ -2821,7 +3064,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docker-container-analysis",
@@ -2832,7 +3076,8 @@
       "last_updated": "2026-03-06",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "onboard-mki-region",
@@ -2845,7 +3090,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "dex-pr-draft",
@@ -2858,7 +3104,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-cluster-lookup",
@@ -2869,7 +3116,8 @@
       "last_updated": "2026-03-12",
       "author": "neiljbrookes",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "platform-initiatives",
@@ -2880,7 +3128,8 @@
       "last_updated": "2026-03-27",
       "author": "ninoslavmiskovic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "process-interviewer",
@@ -2893,7 +3142,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "org-chart-platform-infrastructure",
@@ -2906,7 +3156,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "humanizer",
@@ -2917,7 +3168,8 @@
       "last_updated": "2026-04-09",
       "author": "EvanCastle-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "generate-presentation",
@@ -2930,7 +3182,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "sre-proxy-latency-investigation",
@@ -2941,7 +3194,8 @@
       "last_updated": "2026-03-12",
       "author": "nikfot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "renovate-risk-scoring",
@@ -2952,7 +3206,8 @@
       "last_updated": "2026-02-26",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "enzyme-to-rtl",
@@ -2963,7 +3218,8 @@
       "last_updated": "2026-03-02",
       "author": "elena-shostak",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "magefile",
@@ -2974,7 +3230,8 @@
       "last_updated": "2026-03-06",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "build-connector",
@@ -2987,7 +3244,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "scout-e2e-ui",
@@ -3000,7 +3258,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "status-tcpdump",
@@ -3013,7 +3272,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "session-handoff",
@@ -3024,7 +3284,8 @@
       "last_updated": "2026-03-16",
       "author": "elkargig",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "license-advisor",
@@ -3035,7 +3296,8 @@
       "last_updated": "2026-04-22",
       "author": "saigunnam",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "diagram",
@@ -3046,7 +3308,8 @@
       "last_updated": "2026-03-27",
       "author": "adamkasztenny",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "tsh-loop",
@@ -3059,7 +3322,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "validate-dt-ic-coverage",
@@ -3070,7 +3334,8 @@
       "last_updated": "2026-04-16",
       "author": "vinniev-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-license",
@@ -3081,7 +3346,8 @@
       "last_updated": "2026-03-17",
       "author": "bytebilly",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "forecasting",
@@ -3092,7 +3358,8 @@
       "last_updated": "2026-03-27",
       "author": "shahinakmal",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dbt-field-documentation",
@@ -3103,7 +3370,8 @@
       "last_updated": "2026-04-17",
       "author": "shahinakmal",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "roundtable",
@@ -3116,7 +3384,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "operational-kpi-slo-assessment",
@@ -3127,7 +3396,8 @@
       "last_updated": "2026-03-23",
       "author": "daviddetorres",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "refactor-safety",
@@ -3140,7 +3410,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "collect-tcpdump",
@@ -3153,7 +3424,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "idea-refine",
@@ -3164,7 +3436,8 @@
       "last_updated": "2026-05-15",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-daily-standup-report",
@@ -3175,7 +3448,8 @@
       "last_updated": "2026-03-18",
       "author": "romulo-batista-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "integration-test-coverage-efd6",
@@ -3186,7 +3460,8 @@
       "last_updated": "2026-04-13",
       "author": "efd6",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dbt-test-analysis",
@@ -3197,7 +3472,8 @@
       "last_updated": "2026-05-12",
       "author": "szaffarano",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "verify-reviewer",
@@ -3208,7 +3484,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "verify-reviewer",
@@ -3219,7 +3496,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "verify-reviewer",
@@ -3230,7 +3508,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "verify-reviewer",
@@ -3241,7 +3520,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "verify-reviewer",
@@ -3252,7 +3532,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "verify-reviewer",
@@ -3263,7 +3544,8 @@
       "last_updated": "2026-04-21",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kibana-alerting-rules",
@@ -3274,7 +3556,8 @@
       "last_updated": "2026-04-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kibana-alerting-rules",
@@ -3285,7 +3568,8 @@
       "last_updated": "2026-03-19",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-alerting-rules",
@@ -3296,7 +3580,8 @@
       "last_updated": "2026-03-30",
       "author": "MattDevy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "kibana-alerting-rules",
@@ -3307,7 +3592,8 @@
       "last_updated": "2026-04-08",
       "author": "jkakavas",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "refactor-reviewer",
@@ -3318,7 +3604,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "refactor-reviewer",
@@ -3329,7 +3616,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "refactor-reviewer",
@@ -3340,7 +3628,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "refactor-reviewer",
@@ -3351,7 +3640,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "refactor-reviewer",
@@ -3362,7 +3652,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "refactor-reviewer",
@@ -3373,7 +3664,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "refactor-reviewer",
@@ -3384,7 +3676,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "refactor-reviewer",
@@ -3395,7 +3688,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "refactor-reviewer",
@@ -3406,7 +3700,8 @@
       "last_updated": "2026-04-21",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "helm-charts-mgmt",
@@ -3417,7 +3712,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "helm-charts-mgmt",
@@ -3428,7 +3724,8 @@
       "last_updated": "2026-05-14",
       "author": "Copilot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-humanizer",
@@ -3439,7 +3736,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "docs-humanizer",
@@ -3450,7 +3748,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "basic-debugging",
@@ -3461,7 +3760,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "basic-debugging",
@@ -3472,7 +3772,8 @@
       "last_updated": "2026-05-14",
       "author": "adam-stokes",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "jq-json-processor",
@@ -3483,7 +3784,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "jq-json-processor",
@@ -3494,7 +3796,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "jq-json-processor",
@@ -3505,7 +3808,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "jq-json-processor",
@@ -3516,7 +3820,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "jq-json-processor",
@@ -3527,7 +3832,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "jq-json-processor",
@@ -3538,7 +3844,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "jq-json-processor",
@@ -3549,7 +3856,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "jq-json-processor",
@@ -3560,7 +3868,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "jq-json-processor",
@@ -3571,7 +3880,8 @@
       "last_updated": "2026-04-21",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "basic-code-review",
@@ -3582,7 +3892,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "basic-code-review",
@@ -3593,7 +3904,8 @@
       "last_updated": "2026-05-14",
       "author": "adam-stokes",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "clear-reviewer",
@@ -3604,7 +3916,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "clear-reviewer",
@@ -3615,7 +3928,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "clear-reviewer",
@@ -3626,7 +3940,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "clear-reviewer",
@@ -3637,7 +3952,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "clear-reviewer",
@@ -3648,7 +3964,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "clear-reviewer",
@@ -3659,7 +3976,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "clear-reviewer",
@@ -3670,7 +3988,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "clear-reviewer",
@@ -3681,7 +4000,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "clear-reviewer",
@@ -3692,7 +4012,8 @@
       "last_updated": "2026-04-21",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "oblt-cli-install",
@@ -3703,7 +4024,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-install",
@@ -3714,7 +4036,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-install",
@@ -3725,7 +4048,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-install",
@@ -3736,7 +4060,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-install",
@@ -3747,7 +4072,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-install",
@@ -3758,7 +4084,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-install",
@@ -3769,7 +4096,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-install",
@@ -3780,7 +4108,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-install",
@@ -3791,7 +4120,8 @@
       "last_updated": "2026-04-21",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "yq-yaml-processor",
@@ -3802,7 +4132,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "yq-yaml-processor",
@@ -3813,7 +4144,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "yq-yaml-processor",
@@ -3824,7 +4156,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "yq-yaml-processor",
@@ -3835,7 +4168,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "yq-yaml-processor",
@@ -3846,7 +4180,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "yq-yaml-processor",
@@ -3857,7 +4192,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "yq-yaml-processor",
@@ -3868,7 +4204,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "yq-yaml-processor",
@@ -3879,7 +4216,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "yq-yaml-processor",
@@ -3890,7 +4228,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kibana-pr-deploy",
@@ -3901,7 +4240,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-pr-deploy",
@@ -3912,7 +4252,8 @@
       "last_updated": "2026-05-14",
       "author": "Copilot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "lab-documentation",
@@ -3923,7 +4264,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "shield-reviewer",
@@ -3934,7 +4276,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "shield-reviewer",
@@ -3945,7 +4288,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "shield-reviewer",
@@ -3956,7 +4300,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "shield-reviewer",
@@ -3967,7 +4312,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "shield-reviewer",
@@ -3978,7 +4324,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "shield-reviewer",
@@ -3989,7 +4336,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "shield-reviewer",
@@ -4000,7 +4348,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "shield-reviewer",
@@ -4011,7 +4360,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "shield-reviewer",
@@ -4022,7 +4372,8 @@
       "last_updated": "2026-04-21",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "markdown-to-pdf",
@@ -4033,7 +4384,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "markdown-to-pdf",
@@ -4044,7 +4396,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "markdown-to-pdf",
@@ -4055,7 +4408,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "markdown-to-pdf",
@@ -4066,7 +4420,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "markdown-to-pdf",
@@ -4077,7 +4432,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "markdown-to-pdf",
@@ -4088,7 +4444,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "markdown-to-pdf",
@@ -4099,7 +4456,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "markdown-to-pdf",
@@ -4110,7 +4468,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "markdown-to-pdf",
@@ -4121,7 +4480,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "observability-service-health",
@@ -4132,7 +4492,8 @@
       "last_updated": "2026-04-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "observability-service-health",
@@ -4143,7 +4504,8 @@
       "last_updated": "2026-04-15",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-service-health",
@@ -4154,7 +4516,8 @@
       "last_updated": "2026-03-30",
       "author": "MattDevy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "oblt-cli-expert",
@@ -4165,7 +4528,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-expert",
@@ -4176,7 +4540,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-expert",
@@ -4187,7 +4552,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-expert",
@@ -4198,7 +4564,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-expert",
@@ -4209,7 +4576,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-expert",
@@ -4220,7 +4588,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-expert",
@@ -4231,7 +4600,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-expert",
@@ -4242,7 +4612,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cli-expert",
@@ -4253,7 +4624,8 @@
       "last_updated": "2026-04-21",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-edot-python-migrate",
@@ -4264,7 +4636,8 @@
       "last_updated": "2026-04-15",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-edot-python-migrate",
@@ -4275,7 +4648,8 @@
       "last_updated": "2026-03-30",
       "author": "MattDevy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "planning-and-task-breakdown",
@@ -4286,7 +4660,8 @@
       "last_updated": "2026-05-11",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "refactor-reviewer",
@@ -4297,7 +4672,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "environment-setup",
@@ -4310,7 +4686,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-semantic-index",
@@ -4321,7 +4698,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-semantic-index",
@@ -4332,7 +4710,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-semantic-index",
@@ -4343,7 +4722,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-semantic-index",
@@ -4354,7 +4734,8 @@
       "last_updated": "2026-05-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-edot-dotnet-instrument",
@@ -4365,7 +4746,8 @@
       "last_updated": "2026-04-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "observability-edot-dotnet-instrument",
@@ -4376,7 +4758,8 @@
       "last_updated": "2026-04-15",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-edot-dotnet-instrument",
@@ -4387,7 +4770,8 @@
       "last_updated": "2026-03-30",
       "author": "MattDevy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-user-activity",
@@ -4400,7 +4784,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-user-activity",
@@ -4413,7 +4798,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-user-activity",
@@ -4426,7 +4812,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-user-activity",
@@ -4439,7 +4826,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "code-simplification",
@@ -4452,7 +4840,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "deprecation-and-migration",
@@ -4463,7 +4852,8 @@
       "last_updated": "2026-05-11",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "evals-create-suite",
@@ -4474,7 +4864,8 @@
       "last_updated": "2026-04-23",
       "author": "tylersmalley",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "ecs-pr-triage",
@@ -4485,7 +4876,8 @@
       "last_updated": "2026-04-29",
       "author": "bhapas",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "openspec-sync-specs",
@@ -4496,7 +4888,8 @@
       "last_updated": "2026-03-21",
       "author": "tobio",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "k8s-ops",
@@ -4507,7 +4900,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-authn",
@@ -4518,7 +4912,8 @@
       "last_updated": "2026-03-13",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "agent-optimizer",
@@ -4529,7 +4924,8 @@
       "last_updated": "2026-03-17",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "grafana-migration",
@@ -4540,7 +4936,8 @@
       "last_updated": "2026-05-19",
       "author": "notoriousbdg",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "style-review",
@@ -4551,7 +4948,8 @@
       "last_updated": "2026-04-28",
       "author": "Mpdreamz",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "create-consulting-report",
@@ -4564,7 +4962,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-elastic-cloud-serverless",
@@ -4575,7 +4974,8 @@
       "last_updated": "2026-05-20",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "snyk",
@@ -4586,7 +4986,8 @@
       "last_updated": "2026-03-06",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-audit",
@@ -4597,7 +4998,8 @@
       "last_updated": "2026-03-17",
       "author": "bytebilly",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "update-org-data-integrations",
@@ -4608,7 +5010,8 @@
       "last_updated": "2026-05-06",
       "author": "opauloh",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "health-monitor",
@@ -4619,7 +5022,8 @@
       "last_updated": "2026-04-21",
       "author": "Jordi Kleriga",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "bug-fixer",
@@ -4630,7 +5034,8 @@
       "last_updated": "2026-04-22",
       "author": "MadameSheema",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "operational-kpi-deployment-mix",
@@ -4641,7 +5046,8 @@
       "last_updated": "2026-03-23",
       "author": "daviddetorres",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "presenter",
@@ -4652,7 +5058,8 @@
       "last_updated": "2026-03-31",
       "author": "ek-so",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "ubuntu-security-notifications",
@@ -4663,7 +5070,8 @@
       "last_updated": "2025-12-16",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "model-explorer",
@@ -4674,7 +5082,8 @@
       "last_updated": "2026-04-22",
       "author": "szaffarano",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "gws-drive",
@@ -4685,7 +5094,8 @@
       "last_updated": "2026-03-21",
       "author": "tylersmalley",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "clickstream-analysis",
@@ -4696,7 +5106,8 @@
       "last_updated": "2026-05-06",
       "author": "shahinakmal",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-humanizer",
@@ -4707,7 +5118,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "spec-driven-development",
@@ -4718,7 +5130,8 @@
       "last_updated": "2026-05-15",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "esql-core-review",
@@ -4729,7 +5142,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cluster-triage",
@@ -4740,7 +5154,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "ml-anomalies",
@@ -4751,7 +5166,8 @@
       "last_updated": "2026-05-01",
       "author": "JM-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "investigate-sql-errors",
@@ -4762,7 +5178,8 @@
       "last_updated": "2026-04-17",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-project-robots",
@@ -4773,7 +5190,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "report-outline-enrichment",
@@ -4784,7 +5202,8 @@
       "last_updated": "2026-05-14",
       "author": "petrklapka",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cel-integration-best-practices-efd6",
@@ -4795,7 +5214,8 @@
       "last_updated": "2026-03-12",
       "author": "efd6",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-report-generator",
@@ -4806,7 +5226,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "ech-found-shell",
@@ -4817,7 +5238,8 @@
       "last_updated": "2026-02-06",
       "author": "yang-wei",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "observability-rca",
@@ -4828,7 +5250,8 @@
       "last_updated": "2026-03-13",
       "author": "flash1293",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "lucid-to-c4",
@@ -4841,7 +5264,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "migrate-inline-tool-to-service",
@@ -4854,7 +5278,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "sre-report-structure",
@@ -4865,7 +5290,8 @@
       "last_updated": "2026-03-17",
       "author": "elkargig",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "sre-esql-vacate-logs",
@@ -4876,7 +5302,8 @@
       "last_updated": "2026-03-17",
       "author": "elkargig",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "kibana-workflow-builder",
@@ -4887,7 +5314,8 @@
       "last_updated": "2026-05-07",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-query",
@@ -4898,7 +5326,8 @@
       "last_updated": "2026-03-21",
       "author": "tylersmalley",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dex-research",
@@ -4911,7 +5340,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "campaign-brief",
@@ -4922,7 +5352,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "deal-summary",
@@ -4933,7 +5364,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "pr-architecture-diagram",
@@ -4944,7 +5376,8 @@
       "last_updated": "2026-04-20",
       "author": "lorenabalan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "skill-pattern-guide",
@@ -4958,7 +5391,8 @@
         "claude",
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "access-internal-docs",
@@ -4969,7 +5403,8 @@
       "last_updated": "2026-04-22",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "promotion-config-generator",
@@ -4980,7 +5415,8 @@
       "last_updated": "2026-04-17",
       "author": "stiemtobi",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "velocity-calculator",
@@ -4991,7 +5427,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "clsa-tuxcare-lookup",
@@ -5004,7 +5441,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "esql-telemetry-review",
@@ -5015,7 +5453,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "wiki-to-codex",
@@ -5026,7 +5465,8 @@
       "last_updated": "2026-04-14",
       "author": "ismisepaul",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "backstage",
@@ -5037,7 +5477,8 @@
       "last_updated": "2026-02-26",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "elasticsearch-onboarding",
@@ -5048,7 +5489,8 @@
       "last_updated": "2026-03-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "elasticsearch-esql",
@@ -5059,7 +5501,8 @@
       "last_updated": "2026-05-12",
       "author": "yannis-roussos",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "add-agent",
@@ -5072,7 +5515,8 @@
       "platforms": [
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dnd-roadmap-snapshot",
@@ -5083,7 +5527,8 @@
       "last_updated": "2026-05-11",
       "author": "timductive",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "buildkite-logs",
@@ -5096,7 +5541,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-cli",
@@ -5107,7 +5553,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "buildkite-terrazzo",
@@ -5118,7 +5565,8 @@
       "last_updated": "2026-03-06",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "branch-readiness-checks",
@@ -5129,7 +5577,8 @@
       "last_updated": "2026-03-06",
       "author": "clintandrewhall",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "node-troubleshooter",
@@ -5140,7 +5589,8 @@
       "last_updated": "2026-03-10",
       "author": "rbrunan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "start-tcpdump",
@@ -5153,7 +5603,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "scout-migration",
@@ -5166,7 +5617,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-changelog-tool",
@@ -5177,7 +5629,8 @@
       "last_updated": "2026-05-04",
       "author": "lcawl",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "lint",
@@ -5188,7 +5641,8 @@
       "last_updated": "2026-04-28",
       "author": "Mpdreamz",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "perform-agent-builder-eval",
@@ -5201,7 +5655,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "gke-upgrade-check",
@@ -5212,7 +5667,8 @@
       "last_updated": "2026-05-08",
       "author": "szaffarano",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "agent-builder-skill-author",
@@ -5225,7 +5681,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "create-serverless-region",
@@ -5236,7 +5693,8 @@
       "last_updated": "2026-05-07",
       "author": "rbrunan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "renewal-prep",
@@ -5247,7 +5705,8 @@
       "last_updated": "2026-04-21",
       "author": "Jordi Kleriga",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "elasticsearch-ingest-latency",
@@ -5258,7 +5717,8 @@
       "last_updated": "2026-03-06",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "decision-toolkit",
@@ -5271,7 +5731,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "migrate-cluster-from-tf-to-xp",
@@ -5282,7 +5743,8 @@
       "last_updated": "2026-05-18",
       "author": "rbrunan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "devenv",
@@ -5295,7 +5757,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "eli5-efd6",
@@ -5306,7 +5769,8 @@
       "last_updated": "2026-03-15",
       "author": "efd6",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "forecast-verification",
@@ -5317,7 +5781,8 @@
       "last_updated": "2026-04-21",
       "author": "Jordi Kleriga",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "helm-charts-mgmt",
@@ -5328,7 +5793,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "exec-tree-vis",
@@ -5339,7 +5805,8 @@
       "last_updated": "2026-03-11",
       "author": "ebarlas",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "readConfluence",
@@ -5350,7 +5817,8 @@
       "last_updated": "2026-03-06",
       "author": "ghudgins",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-ephemeral-tokens",
@@ -5361,7 +5829,8 @@
       "last_updated": "2026-04-22",
       "author": "esenmarti",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "review-teleport-rbac-pr",
@@ -5374,7 +5843,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dbt-field-definition-lookup",
@@ -5385,7 +5855,8 @@
       "last_updated": "2026-05-04",
       "author": "shahinakmal",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "codebase-explorer",
@@ -5398,7 +5869,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "guide-kyverno-policy-promotion-process",
@@ -5411,7 +5883,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "buildkite-pipelines",
@@ -5424,7 +5897,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "magefile",
@@ -5435,7 +5909,8 @@
       "last_updated": "2026-02-26",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "mdx-to-codex-migration",
@@ -5448,7 +5923,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-service-health",
@@ -5459,7 +5935,8 @@
       "last_updated": "2026-03-18",
       "author": "vinaychandrasekhar",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "node-troubleshooter",
@@ -5470,7 +5947,8 @@
       "last_updated": "2026-03-10",
       "author": "rbrunan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "incident-spreadsheet-update",
@@ -5483,7 +5961,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-anomaly-detection-explainer",
@@ -5494,7 +5973,8 @@
       "last_updated": "2026-03-18",
       "author": "ghudgins",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "account-intel",
@@ -5505,7 +5985,8 @@
       "last_updated": "2026-04-21",
       "author": "Jordi Kleriga",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "tutor-teleport-infra",
@@ -5518,7 +5999,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "figma-ds-release-delta",
@@ -5529,7 +6011,8 @@
       "last_updated": "2026-05-06",
       "author": "JoseLuisGJ",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "es-dev:test-failure-report",
@@ -5540,7 +6023,8 @@
       "last_updated": "2026-05-14",
       "author": "jilldoty-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "cloudflare",
@@ -5551,7 +6035,8 @@
       "last_updated": "2026-02-19",
       "author": "opencode-agent[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "my-skill",
@@ -5562,7 +6047,8 @@
       "last_updated": "2026-03-04",
       "author": "MattDevy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "test-no-guidelines",
@@ -5573,7 +6059,8 @@
       "last_updated": "2026-03-04",
       "author": "MattDevy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "package-policy-sanitizer",
@@ -5584,7 +6071,8 @@
       "last_updated": "2026-03-27",
       "author": "charlie-pichette",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "skill-apply-standard-property-yaml",
@@ -5595,7 +6083,8 @@
       "last_updated": "2026-05-14",
       "author": "heidi-trimble",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "k8s-ops",
@@ -5606,7 +6095,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "k8s-ops",
@@ -5617,7 +6107,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "k8s-ops",
@@ -5628,7 +6119,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "k8s-ops",
@@ -5639,7 +6131,8 @@
       "last_updated": "2026-05-06",
       "author": "Copilot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-authn",
@@ -5650,7 +6143,8 @@
       "last_updated": "2026-04-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "elasticsearch-authn",
@@ -5661,7 +6155,8 @@
       "last_updated": "2026-03-19",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-authn",
@@ -5672,7 +6167,8 @@
       "last_updated": "2026-03-30",
       "author": "MattDevy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "docs-humanizer",
@@ -5683,7 +6179,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-humanizer",
@@ -5694,7 +6191,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "docs-humanizer",
@@ -5705,7 +6203,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "docs-humanizer",
@@ -5716,7 +6215,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "spec-driven-development",
@@ -5727,7 +6227,8 @@
       "last_updated": "2026-05-11",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "oblt-cluster-triage",
@@ -5738,7 +6239,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cluster-triage",
@@ -5749,7 +6251,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cluster-triage",
@@ -5760,7 +6263,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "oblt-cluster-triage",
@@ -5771,7 +6275,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-project-robots",
@@ -5782,7 +6287,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-project-robots",
@@ -5793,7 +6299,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-project-robots",
@@ -5804,7 +6311,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-project-robots",
@@ -5815,7 +6323,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-report-generator",
@@ -5826,7 +6335,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-report-generator",
@@ -5837,7 +6347,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-report-generator",
@@ -5848,7 +6359,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-report-generator",
@@ -5859,7 +6371,8 @@
       "last_updated": "2026-04-24",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "skill-pattern-guide",
@@ -5873,7 +6386,8 @@
         "claude",
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "skill-pattern-guide",
@@ -5887,7 +6401,8 @@
         "claude",
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "skill-pattern-guide",
@@ -5901,7 +6416,8 @@
         "claude",
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "skill-pattern-guide",
@@ -5915,7 +6431,8 @@
         "claude",
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "velocity-calculator",
@@ -5926,7 +6443,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "velocity-calculator",
@@ -5937,7 +6455,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "velocity-calculator",
@@ -5948,7 +6467,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "velocity-calculator",
@@ -5959,7 +6479,8 @@
       "last_updated": "2026-05-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "elasticsearch-onboarding",
@@ -5970,7 +6491,8 @@
       "last_updated": "2026-04-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "elasticsearch-onboarding",
@@ -5981,7 +6503,8 @@
       "last_updated": "2026-04-15",
       "author": "aarju",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-onboarding",
@@ -5992,7 +6515,8 @@
       "last_updated": "2026-03-30",
       "author": "MattDevy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-cli",
@@ -6003,7 +6527,8 @@
       "last_updated": "2026-04-21",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "optimize-bundle-size",
@@ -6014,7 +6539,8 @@
       "last_updated": "2026-03-06",
       "author": "tylersmalley",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "sdk-to-pf-migration",
@@ -6025,7 +6551,8 @@
       "last_updated": "2026-03-25",
       "author": "tobio",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "alert-review",
@@ -6036,7 +6563,8 @@
       "last_updated": "2026-03-02",
       "author": "olegsu",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "observability-manage-slos",
@@ -6047,7 +6575,8 @@
       "last_updated": "2026-03-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "basic-debugging",
@@ -6058,7 +6587,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "write-observability-labs-blog-post",
@@ -6069,7 +6599,8 @@
       "last_updated": "2026-03-31",
       "author": "AlexanderWert",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "use-case-library",
@@ -6080,7 +6611,8 @@
       "last_updated": "2026-04-10",
       "author": "wildemat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "preso",
@@ -6091,7 +6623,8 @@
       "last_updated": "2026-05-04",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "slack-catchup-feed",
@@ -6102,7 +6635,8 @@
       "last_updated": "2026-02-08",
       "author": "shahargl",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "bc-upgrades",
@@ -6113,7 +6647,8 @@
       "last_updated": "2026-05-04",
       "author": "akfav",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "gdocs",
@@ -6124,7 +6659,8 @@
       "last_updated": "2026-04-10",
       "author": "Jordi Kleriga",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "package-spec",
@@ -6135,7 +6671,8 @@
       "last_updated": "2026-05-19",
       "author": "haetamoudi",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "create-ticket",
@@ -6146,7 +6683,8 @@
       "last_updated": "2026-04-17",
       "author": "joemcelroy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "diagnose-failures",
@@ -6157,7 +6695,8 @@
       "last_updated": "2026-05-19",
       "author": "patrykkopycinski",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "snyk",
@@ -6168,7 +6707,8 @@
       "last_updated": "2025-12-16",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "obs-dbt-alert-analysis",
@@ -6179,7 +6719,8 @@
       "last_updated": "2026-05-15",
       "author": "caterinaandreu",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "gws-sheets",
@@ -6190,7 +6731,8 @@
       "last_updated": "2026-03-21",
       "author": "tylersmalley",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "add-prompt-template",
@@ -6201,7 +6743,8 @@
       "last_updated": "2026-03-18",
       "author": "adhishthite",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "gcp-logs",
@@ -6212,7 +6755,8 @@
       "last_updated": "2026-02-05",
       "author": "zac-li",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "summarize-text",
@@ -6223,7 +6767,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "detection-rule-management",
@@ -6236,7 +6781,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "esql-function-review",
@@ -6247,7 +6793,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "esql-inlinestats-review",
@@ -6258,7 +6805,8 @@
       "last_updated": "2026-05-08",
       "author": "astefan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "beats-docs-backport-efd6",
@@ -6269,7 +6817,8 @@
       "last_updated": "2026-02-26",
       "author": "efd6",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "investigate-esql-errors",
@@ -6280,7 +6829,8 @@
       "last_updated": "2026-04-17",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "investigate-out-of-memory",
@@ -6291,7 +6841,8 @@
       "last_updated": "2026-04-22",
       "author": "mark-vieira",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "howto-rerun-weekly-promotion",
@@ -6302,7 +6853,8 @@
       "last_updated": "2026-04-17",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "mulesoft-pair-programmer",
@@ -6313,7 +6865,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "hive-deployment",
@@ -6324,7 +6877,8 @@
       "last_updated": "2026-05-20",
       "author": "m-adams",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "api-authz",
@@ -6337,7 +6891,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "investigate-shards-node-out-of-disk",
@@ -6348,7 +6903,8 @@
       "last_updated": "2026-04-17",
       "author": "rjernst",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "review",
@@ -6359,7 +6915,8 @@
       "last_updated": "2026-02-25",
       "author": "radtke-vale",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "rca-investigation",
@@ -6370,7 +6927,8 @@
       "last_updated": "2026-05-07",
       "author": "ori shafir",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dex-explore",
@@ -6383,7 +6941,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-pr-change-suggestion",
@@ -6394,7 +6953,8 @@
       "last_updated": "2026-05-18",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-pr-change-suggestion",
@@ -6405,7 +6965,8 @@
       "last_updated": "2026-05-15",
       "author": "max-chaban",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elasticsearch-esql",
@@ -6416,7 +6977,8 @@
       "last_updated": "2026-04-08",
       "author": "jkakavas",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-issue-story-splitter",
@@ -6427,7 +6989,8 @@
       "last_updated": "2026-05-07",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-issue-story-splitter",
@@ -6438,7 +7001,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-issue-story-splitter",
@@ -6449,7 +7013,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-issue-story-splitter",
@@ -6460,7 +7025,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-issue-story-splitter",
@@ -6471,7 +7037,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-issue-story-splitter",
@@ -6482,7 +7049,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-issue-story-splitter",
@@ -6493,7 +7061,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-issue-story-splitter",
@@ -6504,7 +7073,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-issue-story-splitter",
@@ -6515,7 +7085,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-contributions-report",
@@ -6528,7 +7099,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-contributions-report",
@@ -6541,7 +7113,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-contributions-report",
@@ -6554,7 +7127,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-contributions-report",
@@ -6567,7 +7141,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "reviewer-resolved-suggestions",
@@ -6580,7 +7155,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "reviewer-resolved-suggestions",
@@ -6593,7 +7169,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "reviewer-resolved-suggestions",
@@ -6606,7 +7183,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "reviewer-resolved-suggestions",
@@ -6619,7 +7197,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "reviewer-resolved-suggestions",
@@ -6632,7 +7211,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "reviewer-resolved-suggestions",
@@ -6645,7 +7225,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "reviewer-resolved-suggestions",
@@ -6658,7 +7239,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "reviewer-resolved-suggestions",
@@ -6671,7 +7253,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "reviewer-resolved-suggestions",
@@ -6684,7 +7267,8 @@
       "platforms": [
         "copilot"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-open-prs-by-project",
@@ -6695,7 +7279,8 @@
       "last_updated": "2026-05-15",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-open-prs-by-project",
@@ -6706,7 +7291,8 @@
       "last_updated": "2026-04-14",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-open-prs-by-project",
@@ -6717,7 +7303,8 @@
       "last_updated": "2026-05-12",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-open-prs-by-project",
@@ -6728,7 +7315,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-open-prs-by-project",
@@ -6739,7 +7327,8 @@
       "last_updated": "2026-05-14",
       "author": "elastic-observability-automation[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-open-prs-by-project",
@@ -6750,7 +7339,8 @@
       "last_updated": "2026-05-08",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-open-prs-by-project",
@@ -6761,7 +7351,8 @@
       "last_updated": "2026-05-13",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-open-prs-by-project",
@@ -6772,7 +7363,8 @@
       "last_updated": "2026-04-21",
       "author": "kuisathaverat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "cloud-setup",
@@ -6783,7 +7375,8 @@
       "last_updated": "2026-03-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "attack-discovery-triage",
@@ -6794,7 +7387,8 @@
       "last_updated": "2026-04-17",
       "author": "davethegut",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "user-skill-eval",
@@ -6805,7 +7399,8 @@
       "last_updated": "2026-05-19",
       "author": "patrykkopycinski",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "codebase-search-files",
@@ -6816,7 +7411,8 @@
       "last_updated": "2026-05-18",
       "author": "banderror",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "apm-service-dependencies",
@@ -6827,7 +7423,8 @@
       "last_updated": "2026-05-01",
       "author": "JM-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-fetch-prs",
@@ -6840,7 +7437,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "sophia",
@@ -6851,7 +7449,8 @@
       "last_updated": "2026-04-04",
       "author": "gvrentzos-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "diagnose-integration-error",
@@ -6862,7 +7461,8 @@
       "last_updated": "2026-04-20",
       "author": "haetamoudi",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "forge-incident",
@@ -6873,7 +7473,8 @@
       "last_updated": "2026-03-25",
       "author": "JM-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "elastic-brand-guidelines",
@@ -6887,7 +7488,8 @@
         "claude",
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "codebase-search-semantic",
@@ -6900,7 +7502,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "catalog-ecommerce",
@@ -6911,7 +7514,8 @@
       "last_updated": "2026-04-24",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "catalog-ecommerce",
@@ -6922,7 +7526,8 @@
       "last_updated": "2026-04-16",
       "author": "wildemat",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "feature"
     },
     {
       "name": "docs-fix-changelog",
@@ -6933,7 +7538,8 @@
       "last_updated": "2026-05-07",
       "author": "theletterf",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-privilege-deprecation",
@@ -6944,7 +7550,8 @@
       "last_updated": "2026-02-18",
       "author": "elena-shostak",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "rca-doc-reviewer",
@@ -6955,7 +7562,8 @@
       "last_updated": "2026-03-23",
       "author": "daviddetorres",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "deprecation-and-migration",
@@ -6966,7 +7574,8 @@
       "last_updated": "2026-05-15",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "create-workstream",
@@ -6977,7 +7586,8 @@
       "last_updated": "2026-04-17",
       "author": "joemcelroy",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "code-simplification",
@@ -6990,7 +7600,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "slack-fetch-threads",
@@ -7003,7 +7614,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "observability-content-generator",
@@ -7014,7 +7626,8 @@
       "last_updated": "2026-05-20",
       "author": "ishleenk17",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "incident-response",
@@ -7025,7 +7638,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-k8s-investigation",
@@ -7036,7 +7650,8 @@
       "last_updated": "2026-05-01",
       "author": "JM-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "ea-doc-impact-analysis",
@@ -7047,7 +7662,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "cert-checker",
@@ -7060,7 +7676,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "certbot",
@@ -7071,7 +7688,8 @@
       "last_updated": "2026-02-26",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "tsh-inventory",
@@ -7084,7 +7702,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "review-kyverno-engine-pr",
@@ -7095,7 +7714,8 @@
       "last_updated": "2026-04-24",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "poc",
@@ -7108,7 +7728,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "observability-edot-dotnet-instrument",
@@ -7119,7 +7740,8 @@
       "last_updated": "2026-03-16",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "github-search-prs-test-fixture",
@@ -7130,7 +7752,8 @@
       "last_updated": "2026-05-18",
       "author": "banderror",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "mulesoft-test-generator",
@@ -7141,7 +7764,8 @@
       "last_updated": "2026-05-19",
       "author": "Changie Bot",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "github-search-reviews",
@@ -7152,7 +7776,8 @@
       "last_updated": "2026-05-18",
       "author": "banderror",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "environment-setup",
@@ -7165,7 +7790,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "planning-and-task-breakdown",
@@ -7176,7 +7802,8 @@
       "last_updated": "2026-05-15",
       "author": "dkirchan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "generate-sample-data",
@@ -7187,7 +7814,8 @@
       "last_updated": "2026-04-17",
       "author": "davethegut",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "hive-token-optimization",
@@ -7201,7 +7829,8 @@
         "claude",
         "gemini"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "sdh-kibana",
@@ -7212,7 +7841,8 @@
       "last_updated": "2026-03-23",
       "author": "daviddetorres",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "rootly-incidents",
@@ -7223,7 +7853,8 @@
       "last_updated": "2026-04-23",
       "author": "daviddetorres",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "psi",
@@ -7236,7 +7867,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "ops-review",
@@ -7247,7 +7879,8 @@
       "last_updated": "2026-05-20",
       "author": "rbrunan",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "codeowners-gaps",
@@ -7260,7 +7893,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "check-renovate-prs",
@@ -7271,7 +7905,8 @@
       "last_updated": "2026-03-20",
       "author": "juliocamarero",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dex-ticket-decompose",
@@ -7284,7 +7919,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "okta-aws-cli-diagnostics",
@@ -7295,7 +7931,8 @@
       "last_updated": "2026-03-23",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "review-secret-service-pr",
@@ -7308,7 +7945,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "observability-edot-python-migrate",
@@ -7319,7 +7957,8 @@
       "last_updated": "2026-03-16",
       "author": "elastic-vault-github-plugin-prod[bot]",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-edot-python-migrate",
@@ -7330,7 +7969,8 @@
       "last_updated": "2026-03-18",
       "author": "vinaychandrasekhar",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "k8s-blast-radius",
@@ -7341,7 +7981,8 @@
       "last_updated": "2026-04-30",
       "author": "JM-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "kibana-synthetic-data-generation",
@@ -7352,7 +7993,8 @@
       "last_updated": "2026-03-23",
       "author": "awahab07",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "operational-kpi-incidents",
@@ -7363,7 +8005,8 @@
       "last_updated": "2026-03-27",
       "author": "daviddetorres",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "Generic reviewer",
@@ -7374,7 +8017,8 @@
       "last_updated": "2026-05-18",
       "author": "banderror",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "status-tcpdump",
@@ -7387,7 +8031,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "drain-tf-nodepools",
@@ -7400,7 +8045,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "esql-analytics-queries",
@@ -7411,7 +8057,8 @@
       "last_updated": "2026-03-16",
       "author": "JM-elastic",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "api-gateway-access-logs",
@@ -7424,7 +8071,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "find-host",
@@ -7437,7 +8085,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "review-integration",
@@ -7450,7 +8099,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dashboard-guidelines",
@@ -7461,7 +8111,8 @@
       "last_updated": "2026-05-19",
       "author": "haetamoudi",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "tsh-loop",
@@ -7474,7 +8125,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "cloud-setup",
@@ -7485,7 +8137,8 @@
       "last_updated": "2026-03-18",
       "author": "ghudgins",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "dex-knowledge",
@@ -7496,7 +8149,8 @@
       "last_updated": "2026-04-26",
       "author": "banderror",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "dex-skill-debug",
@@ -7509,7 +8163,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "buildkite-terrazzo",
@@ -7520,7 +8175,8 @@
       "last_updated": "2026-03-23",
       "author": "plinde",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "org-chart-platform-infrastructure",
@@ -7533,7 +8189,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "unclear"
     },
     {
       "name": "review-cert-manager-pr",
@@ -7546,7 +8203,8 @@
       "platforms": [
         "claude"
       ],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     },
     {
       "name": "observability-cluster-lookup",
@@ -7557,7 +8215,8 @@
       "last_updated": "2026-03-12",
       "author": "neiljbrookes",
       "platforms": [],
-      "tags": []
+      "tags": [],
+      "category": "dev_tool"
     }
   ]
 }

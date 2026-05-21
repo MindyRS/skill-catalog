@@ -239,6 +239,10 @@ main {
   border-bottom: 1px solid var(--border);
 }
 
+.badge-dev_tool { background: #E6F4EA; color: #1E7E34; }
+.badge-feature  { background: #FFF3CD; color: #856404; }
+.badge-unclear  { background: #F3F4F6; color: #6B7280; }
+
 .repo-group-row td {
   background: var(--elastic-light);
   font-family: monospace;
