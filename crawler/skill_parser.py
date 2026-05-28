@@ -69,8 +69,23 @@ def classify_skill(path: str, description: str) -> str:
         return "dev_tool"
     if re.search(r"(^|/)\.agents/skills/", path_lower):
         return "dev_tool"
+    # Cursor editor skills, AI setup skills, and agent-config plugins are dev tools
+    if re.search(r"(^|/)\.cursor/skills/", path_lower):
+        return "dev_tool"
+    if re.search(r"(^|/)\.ai-setup/agent-skills/skills/", path_lower):
+        return "dev_tool"
+    if re.search(r"(^|/)agent-config/plugins/[^/]+/skills/", path_lower):
+        return "dev_tool"
+    # .github/skills/ and .gemini/skills/ are always dev tools
+    if re.search(r"(^|/)\.github/skills/", path_lower):
+        return "dev_tool"
+    if re.search(r"(^|/)\.gemini/skills/", path_lower):
+        return "dev_tool"
+    # DEX dev skills are always dev tools
+    if re.search(r"(^|/)skills/dex-", path_lower):
+        return "dev_tool"
 
-    # Description-based feature rules
+    # Description-based feature rules (single phrases, high confidence)
     for phrase in [
         "guide for building",
         "in a running kibana",
@@ -79,30 +94,111 @@ def classify_skill(path: str, description: str) -> str:
         "get started with elasticsearch",
         "vega-lite visualization",
         "vega and vega-lite",
+        # Security product features
+        "threat hunting",
+        "detection rule",
+        "ml anomaly",
+        "anomaly detection result",
+        "entity risk score",
+        # Non-engineering use cases
+        "catch up on weekend",
+        "weekend slack",
+        "humanizer",
+        "remove signs of ai",
+        "deal summary",
+        "campaign brief",
+        "consulting report",
+        "generate a customer",
+        "customer deck",
+        # Elastic product skill indicators
+        "execute es|ql",
+        "translate natural language" ,
+        "elastic distribution of opentelemetry",
+        "elastic cloud serverless",
+        "kibana alerting rules",
+        "elasticsearch rbac",
     ]:
         if phrase in desc_lower:
             return "feature"
 
-    # Strong single-keyword dev_tool signals
-    for kw in ["flaky", "functional test runner", "scaffold", "bundle size",
-               "codeowners", "buildkite", "enzyme", "react testing library",
-               "renovate", "pr review", "pull request review", "oncall",
-               "on-call", "shift-left"]:
+    # Compound feature rules for product skills
+    if "instrument" in desc_lower and "opentelemetry" in desc_lower:
+        return "feature"
+    if "serverless" in desc_lower and "elastic cloud" in desc_lower:
+        return "feature"
+    if "elastic cloud" in desc_lower and re.search(r"\b(authentication|environment|configure|project)\b", desc_lower):
+        return "feature"
+
+    # Compound feature rules
+    if "triage" in desc_lower and "alert" in desc_lower:
+        return "feature"
+    if "slo" in desc_lower and re.search(r"\belastic\b", desc_lower) and re.search(r"\b(create|manage)\b", desc_lower):
+        return "feature"
+    if "ingest" in desc_lower and "into elasticsearch" in desc_lower:
+        return "feature"
+    if "authenticate" in desc_lower and "elasticsearch" in desc_lower and "realm" in desc_lower:
+        return "feature"
+    if "alert rule" in desc_lower and "kibana" in desc_lower:
+        return "feature"
+    if "migrate" in desc_lower and "grafana" in desc_lower and "kibana" in desc_lower:
+        return "feature"
+    if "renewal" in desc_lower and re.search(r"\b(review|prep)\b", desc_lower):
+        return "feature"
+
+    # Strong single-keyword/phrase dev_tool signals
+    for kw in [
+        "flaky", "functional test runner", "scaffold", "bundle size",
+        "codeowners", "buildkite", "enzyme", "react testing library",
+        "renovate", "pr review", "pull request review", "review pr", "review prs",
+        "oncall", "on-call", "shift-left",
+        # New dev_tool signals
+        " lint", "linting", "auto-fix formatting",
+        "git commit", "commit message",
+        "github cli",
+        "snyk",
+        "performance investigation", "profiling data",
+        " cve", "common vulnerabilities",
+        "vpn",
+        "indexed codebase", "search codebase", "codebase",
+        "code simplification", "simplifies code",
+        "spec-driven development", "creates specs before coding",
+        "tcpdump",
+        "pagerduty",
+        "n+1 queries",
+        "owasp",
+        "module boundaries",
+        "algorithmic complexity",
+        "operational kpi",
+        "board hygiene",
+        "velocity report",
+        "bulk-fetches",
+        "gh api graphql",
+        "readability, naming",
+        "code scanning stats",
+        "dead code",
+        "claude code",
+        "pre-commit",
+        "jupyter notebook",
+    ]:
         if kw in desc_lower:
             return "dev_tool"
 
     # Score-based fallback
     dev_score = sum(1 for kw in [
-        "test", "debug", "validate", "migrate", " pr ", "jest",
+        "test", "debug", "validate", " pr ", "jest",
         "playwright", "cypress", "scout", "accessibility", "a11y",
         "i18n", "eslint", "github issue", "branch", "eval", "ci ",
         "contribution", "release", "deploy", "troubleshoot", "audit",
-        "cluster", "sre", "oncall", "incident",
+        "cluster", "sre", "oncall", "incident", "diagnose",
+        "migrate", "migration", "refactor", "coverage", "benchmark",
+        "ci/cd", "helm chart", "kubernetes", "argo", "crossplane",
+        "teleport", "devctl", "runbook",
     ] if kw in desc_lower)
 
     feature_score = sum(1 for kw in [
         "yaml syntax", "onboarding", "what to build", "use case",
         "visualization", "dashboard", "kibana streams", "kibana canvas",
+        "security solution", "endpoint security", "cloud security",
     ] if kw in desc_lower)
 
     if dev_score >= 2 and dev_score > feature_score:
